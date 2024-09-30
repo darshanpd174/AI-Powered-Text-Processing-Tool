@@ -1,4 +1,4 @@
-import pickle
+
 from textblob import TextBlob
 
 class SpellCheckerModule:
